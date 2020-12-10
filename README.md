@@ -1,7 +1,7 @@
 # SSH-Plus-English-Version
 
 
-##Welcome to SSH PLUS ENGLISH VERSION 
+#Welcome to SSH PLUS ENGLISH VERSION 
 -------------------------------------------------------------------------------
 
 ###BIG CREDITS To the real maker of SSH PLUS
@@ -9,7 +9,7 @@
 #####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
 
 -------------------------------------------------------------------------------
-- # Installation
+# Installation
 
 ####To use this script you need to run this first
 
