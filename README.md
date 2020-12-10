@@ -1,29 +1,31 @@
 # SSH-Plus-English-Version
 
 
-#Welcome to SSH PLUS ENGLISH VERSION 
+##Welcome to SSH PLUS ENGLISH VERSION 
 
-##BIG CREDITS To the real maker of SSH PLUS
+###BIG CREDITS To the real maker of SSH PLUS
 
-####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
-
-
-###To use this script you need to run this first
-
-`apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus`
-
-###after successful install run this to translate SSH PLUS
-
-`cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh`
+#####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
 
 
-and done ssh plus translated
+- # Installation
+
+####To use this script you need to run this first
+
+>apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+
+####after successful install run this to translate SSH PLUS
+
+>cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh
+
+
+#### and done ssh plus translated
+
+> Credits to: **Phc_Mared08**  and **Phc_efstab813** for suggestion and help to upload
 >
-> #Credits to: Phc_Mared08  and Phc_efstab813 for suggestion and help to upload
+> Thank you **Cupcake_13** to requesting this to translate in English version
 >
-> #Thank you Cupcake_13 to requesting this to translate in English version
+> Group: https://phcorner.net
 >
-> #Group: https://phcorner.net
->
-> #Phc_Jayvee
+> **Phc_Jayvee**
 >
