@@ -1,0 +1,22 @@
+#!/bin/bash
+
+echo ""
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\033[0;32m-        TRANSLATE BY PHC_MARED0 PHC_Jayvee      -\033[0m"
+echo -e "\033[0;32m-              REQUESTED BY CUPCAKE_13           -\033[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+echo -e "\033[1;31mATTENTION!!\033[0m"
+echo " "
+echo -e "\033[1;33mThis password will be used to enter your server
+\033[0m"
+echo -e "\033[1;32mTYPE NEW PASSWORD \033[1;32m
+to continue...\033[1;31m\033[0m"
+read  -p : pass
+(echo $pass; echo $pass)|passwd 2>/dev/null
+sleep 1s
+echo -e "\033[1;31mPASSWORD CHANGED SUCCESSFULLY!\033[0m"
+sleep 5s
+cd
+clear
+
