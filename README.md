@@ -4,11 +4,8 @@
 #Welcome to SSH PLUS ENGLISH VERSION 
 -------------------------------------------------------------------------------
 
-###BIG CREDITS To the real maker of SSH PLUS
 
-#####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
 
--------------------------------------------------------------------------------
 # Installation
 
 ####To use this script you need to run this first
@@ -23,7 +20,7 @@ cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PH
 
 #### and done ssh plus translated
 -------------------------------------------------------------------------------
-
+# Credits
 > Credits to: **Phc_Mared08**  and **Phc_efstab813** for suggestion and help to upload
 >
 > Thank you **Cupcake_13** to requesting this to translate in English version
@@ -32,3 +29,7 @@ cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PH
 >
 > **Phc_Jayvee**
 >
+-------------------------------------------------------------------------------
+###BIG CREDITS To the real maker of SSH PLUS
+
+#####this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE
