@@ -20,7 +20,9 @@
 and done ssh plus translated
 >
 > #Credits to: Phc_Mared08  and Phc_efstab813 for suggestion and help to upload
+>
 > #Thank you Cupcake_13 to requesting this to translate in English version
+>
 > #Group: https://phcorner.net
 >
 > #Phc_Jayvee
