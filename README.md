@@ -9,20 +9,21 @@ this is their repository https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAG
 
 
 To use this script you need to run this first
-[code]
+
+####Inline code
 apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
-[/code]
+
 after successful install run this to translate SSH PLUS
 
-[code]
+####Inline code
 cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh
-[/code]
+
+
 and done ssh plus translated
 
-[quote]
-#Credits to: Phc_Mared08  and Phc_efstab813 for suggestion and help to upload
-#Thank you Cupcake_13 to requesting this to translate in English version
-#Group: https://phcorner.net
+> #Credits to: Phc_Mared08  and Phc_efstab813 for suggestion and help to upload
+> #Thank you Cupcake_13 to requesting this to translate in English version
+> #Group: https://phcorner.net
 
-#Phc_Jayvee
-[/quote]
+> #Phc_Jayvee
+
