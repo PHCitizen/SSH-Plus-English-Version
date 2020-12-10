@@ -12,13 +12,14 @@
 # Installation
 
 ####To use this script you need to run this first
-
->apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
-
+```
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus; chmod 777 Plus; ./Plus
+```
 ####after successful install run this to translate SSH PLUS
 
->cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh
-
+```
+cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/translate.sh && chmod +x translate.sh && bash translate.sh
+```
 
 #### and done ssh plus translated
 -------------------------------------------------------------------------------
