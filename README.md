@@ -34,7 +34,7 @@ cd /tmp && mkdir /tmp/SSH-PLUS-ENG/ && wget https://raw.githubusercontent.com/PH
 #### and done ssh plus translated
 -------------------------------------------------------------------------------
 # Credits
-> Credits to: **Phc_Mared08**  and **Phc_efstab813** for suggestion and help to upload
+> Credits to: **Phc_Mared08**  and **Phc_efstab813** for helping me translate
 >
 > Thank you **Cupcake_13** to requesting this to translate in English version
 >
