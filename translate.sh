@@ -42,3 +42,19 @@ for filename in /tmp/SSH-PLUS-ENG/*; do
 done
 
 rm /tmp/SSH-PLUS-ENG/*
+
+clear
+echo ""
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\033[0;32m-        TRANSLATE BY PHC_MARED0 PHC_Jayvee      -\033[0m"
+echo -e "\033[0;32m-              REQUESTED BY CUPCAKE_13           -\033[0m"
+echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+echo "Translation COMPLETE"
+sleep 1
+echo "Thank you for using this Script ..............."
+sleep 1
+echo "exiting................"
+echo ""
+sleep 2
+
