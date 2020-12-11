@@ -84,7 +84,9 @@ wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/mai
 wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/sshmonitor -P /tmp/SSH-PLUS-ENG/
 wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/cmd/userbackup -P /tmp/SSH-PLUS-ENG/
 echo -ne '[########################]\r'
-
+echo ""
+echo ""
+echo ""
 for filename in /tmp/SSH-PLUS-ENG/*; do
     cp $filename /bin/
 done
