@@ -9,7 +9,7 @@ echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━�
 echo ""
 
 wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/upload-ovpn.sh
-sudo apt install nginx
+sudo apt install nginx -y
 cp /tmp/upload-ovpn.sh /usr/bin/
 chmod +x /usr/bin/upload-ovpn.sh
 echo ""
