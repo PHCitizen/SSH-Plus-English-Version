@@ -14,6 +14,6 @@ sudo apt install nginx -y
 cp /tmp/upload-ovpn.sh /usr/bin/
 chmod +x /usr/bin/upload-ovpn.sh
 echo ""
-echo "echo done just type\033[0;32m upload-ovpn.sh\033[0m to make ovpn files downloadable thru nginx"
+echo "echo done just type -----------  upload-ovpn.sh ----------- to make ovpn files downloadable thru nginx"
 echo "exiting........"
 sleep 2
