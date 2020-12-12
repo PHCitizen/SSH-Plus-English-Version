@@ -8,6 +8,7 @@ echo -e "\033[0;32m-               MADE BY PHC_Jayvee               -\033[0m"
 echo -e "\033[0;34m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo ""
 
+wget -q https://raw.githubusercontent.com/PHCitizen/SSH-Plus-English-Version/main/upload-ovpn.sh
 sudo apt install nginx
 cp /tmp/upload-ovpn.sh /usr/bin/
 chmod +x /usr/bin/upload-ovpn.sh
